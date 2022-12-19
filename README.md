@@ -240,8 +240,6 @@ MCP2515::ERROR setFilter(const RXF num, const bool ext, const uint32_t ulData)
 
 ## 6. Examples
 
-
-For more information, please refer to [wiki page](http://www.seeedstudio.com/wiki/CAN-BUS_Shield) .
-
+[Usage MCP2515](https://github.com/deepalarm/Can_Hacker_Arduino.git) 
     
 ----
