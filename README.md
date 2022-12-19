@@ -10,7 +10,7 @@ CAN-BUS is a common industrial bus because of its long travel distance, medium c
 
 ## Library Installation
 
-1. Download the ZIP file from https://github.com/deepalarm/MCP2515_Arduino/archive/refs/heads/main.zip
+1. Download the ZIP file from [MCP2515_Arduino](https://github.com/deepalarm/MCP2515_Arduino/archive/refs/heads/main.zip)
 2. From the Arduino IDE: Sketch -> Include Library... -> Add .ZIP Library...
 3. Restart the Arduino IDE to see the new "mcp2515" library with examples
 
